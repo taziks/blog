@@ -1,0 +1,9 @@
+baseURL = "https://taziks.com"
+languageCode = "en-us"
+title = "Insert Blog Name"
+
+theme = "one"
+googleAnalytics = "UA-123-45"
+
+[params]
+    navigation = ["archives.md", "about.md"]
